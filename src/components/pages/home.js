@@ -1,12 +1,12 @@
 import React from "react";
 
-import PortfolioContainer from "../portfolio/portfolio-container";
+import IdeazContainer from "../ideaz/ideaz-container";
 
 export default function() {
   return (
     <div>
       <h2>Home</h2>
-      <PortfolioContainer />
+      <IdeazContainer />
     </div>
   );
 }

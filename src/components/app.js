@@ -15,7 +15,7 @@ export default class App extends Component {
         <Router>
           <div>
             <h1>Ideaz</h1>
-            <div>{moment().format("MMMM Do YYYY, h:mm:ss a")}</div>
+            
             <Navbar />
 
             <Switch>
