@@ -1,5 +1,5 @@
 import React from "react";
 
 export default function() {
-  return <div>Ideaz</div>;
+  return <div>Contact</div>;
 }
